@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca564c79-8bca-4050-bab8-98058a8464ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AnisotropicStandard/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AnisotropicStandard/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Demo/Demo.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Demo/Materials/CarbonFiber.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Demo/Materials/Unity.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Demo/Prefabs/ShaderGlobe.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Demo/Textures/CarbonFiber_Height.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Demo/Textures/CarbonFiber_Normal.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Demo/Textures/CarbonFiber_Occlusion.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Demo/Textures/CarbonFiber_Tangent.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Demo/Textures/CarbonFiber_Vcol.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Demo/Textures/Unity_Color.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityAnisotropicStandard.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityAnisotropicStandard.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityAnisotropicSurface.shader.meta" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/UnityAnisotropicStandard.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="129" column="60" selection-start-line="129" selection-start-column="33" selection-end-line="129" selection-end-column="60" />
+              <folding>
+                <marker date="1554723161123" expanded="true" signature="132:8631" ph="{...}" />
+                <marker date="1554723161123" expanded="true" signature="147:1797" ph="{...}" />
+                <marker date="1554723161123" expanded="true" signature="603:742" ph="/* [ToggleOff] _SpecularHighlights(&quot;Specular Highlights&quot;, Float) = 1.0 ... */" />
+                <marker date="1554723161123" expanded="true" signature="1809:1869" ph="{...}" />
+                <marker date="1554723161123" expanded="true" signature="1888:5253" ph="{...}" />
+                <marker date="1554723161123" expanded="true" signature="1968:2107" ph="/* ------------------------------------------------------------------ ... */" />
+                <marker date="1554723161123" expanded="true" signature="2117:2985" ph="{...}" />
+                <marker date="1554723161123" expanded="true" signature="2240:2976" ph="{...}" />
+                <marker date="1554723161123" expanded="true" signature="2988:3106" ph="/* ------------------------------------------------------------------ ... */" />
+                <marker date="1554723161123" expanded="true" signature="3116:3944" ph="{...}" />
+                <marker date="1554723161123" expanded="true" signature="3312:3935" ph="{...}" />
+                <marker date="1554723161123" expanded="true" signature="3947:4044" ph="/* ------------------------------------------------------------------ ... */" />
+                <marker date="1554723161123" expanded="true" signature="4054:4607" ph="{...}" />
+                <marker date="1554723161123" expanded="true" signature="4159:4598" ph="{...}" />
+                <marker date="1554723161123" expanded="true" signature="4611:4804" ph="/* ------------------------------------------------------------------ ... */" />
+                <marker date="1554723161123" expanded="true" signature="4814:5250" ph="{...}" />
+                <marker date="1554723161123" expanded="true" signature="4889:5241" ph="{...}" />
+                <marker date="1554723161123" expanded="true" signature="5267:8569" ph="{...}" />
+                <marker date="1554723161123" expanded="true" signature="5346:5485" ph="/* ------------------------------------------------------------------ ... */" />
+                <marker date="1554723161123" expanded="true" signature="5495:6376" ph="{...}" />
+                <marker date="1554723161123" expanded="true" signature="5618:6367" ph="{...}" />
+                <marker date="1554723161123" expanded="true" signature="6379:6497" ph="/* ------------------------------------------------------------------ ... */" />
+                <marker date="1554723161123" expanded="true" signature="6507:7343" ph="{...}" />
+                <marker date="1554723161123" expanded="true" signature="6703:7334" ph="{...}" />
+                <marker date="1554723161123" expanded="true" signature="7346:7443" ph="/* ------------------------------------------------------------------ ... */" />
+                <marker date="1554723161123" expanded="true" signature="7453:7923" ph="{...}" />
+                <marker date="1554723161123" expanded="true" signature="7558:7914" ph="{...}" />
+                <marker date="1554723161123" expanded="true" signature="7927:8120" ph="/* ------------------------------------------------------------------ ... */" />
+                <marker date="1554723161123" expanded="true" signature="8130:8566" ph="{...}" />
+                <marker date="1554723161123" expanded="true" signature="8205:8557" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/CGIncludes/UnityAnisotropicCoreForward.cginc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="12" column="47" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/CGIncludes/UnityAnisotropicCoreForwardSimple.cginc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="98" column="14" lean-forward="true" selection-start-line="98" selection-start-column="14" selection-end-line="98" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Editor/AnisotropicShaderGUI.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="632">
+              <caret line="138" column="56" selection-start-line="138" selection-start-column="42" selection-end-line="138" selection-end-column="56" />
+              <folding>
+                <marker date="1554707358559" expanded="false" signature="109:135" ph="..." />
+                <marker date="1554707358559" expanded="true" signature="158:22538" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="212:22536" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="252:339" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="370:633" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="675:755" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="792:3602" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="5309:7614" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="7707:8513" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="8017:8296" ph="/* Make sure that needed setup (ie keywords/renderqueue) are set up if we're switching some existing ... */" />
+                <marker date="1554707358559" expanded="true" signature="8330:8459" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="8573:11351" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="10974:11125" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="11418:11875" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="11986:13293" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="12009:12150" ph="/* _Emission property is lost after assigning Standard shader to the material ... */" />
+                <marker date="1554707358559" expanded="true" signature="12201:12314" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="12474:12619" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="12737:12811" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="12874:13071" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="12905:13013" ph="/* NOTE: legacy shaders did not provide physically based transparency ... */" />
+                <marker date="1554707358559" expanded="true" signature="13324:13862" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="13646:13805" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="13908:14277" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="14094:14267" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="14325:15298" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="14427:15288" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="15337:16744" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="15442:15667" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="15729:15949" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="16048:16282" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="16777:16999" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="17094:19807" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="17135:19797" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="19887:20183" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="20270:22063" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="20293:20494" ph="/* Note: keywords must be based on Material value not on MaterialProperty due to multi-edit &amp; material animation ... */" />
+                <marker date="1554707358559" expanded="true" signature="21163:21546" ph="/* A material's GI flag internally keeps track of whether emission is enabled at all, it's enabled but has no eff ... */" />
+                <marker date="1554707358559" expanded="true" signature="21876:22053" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="22146:22313" ph="{...}" />
+                <marker date="1554707358559" expanded="true" signature="22385:22530" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/CGIncludes/UnityAnisotropicBRDF.cginc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2170">
+              <caret line="138" column="40" lean-forward="true" selection-start-line="138" selection-start-column="40" selection-end-line="138" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>meta</find>
+      <find>UnityAnisotropicCoreForward</find>
+      <find>aniso</find>
+      <find>AnisotropicMetallicSetup</find>
+      <find>_AnisotropyMap</find>
+      <find>Anisotropy</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Temp/Compiled-AnisotropicStandard.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UnityAnisotropicStandard.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CGIncludes/UnityAnisotropicCoreForward.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CGIncludes/UnityAnisotropicCore.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CGIncludes/UnityAnisotropicShadow.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CGIncludes/UnityAnisotropicBRDF.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/AnisotropicShaderGUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CGIncludes/UnityAnisotropicInput.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CGIncludes/UnityAnisotropicCoreForwardSimple.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CGIncludes/UnityAnisotropicLighting.cginc" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/UnityAnisotropicStandard.shader" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="48" />
+    <option name="width" value="3153" />
+    <option name="height" value="1688" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca564c79-8bca-4050-bab8-98058a8464ed" name="Default Changelist" comment="" />
+      <created>1554722667595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554722667595</updated>
+      <workItem from="1554722670288" duration="2520000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2520000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="3200" height="1713" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18651044" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.3294263" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Tutorials" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Temp/Compiled-AnisotropicStandard.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9700">
+          <caret line="3033" column="26" selection-start-line="3033" selection-start-column="22" selection-end-line="3033" selection-end-column="26" />
+          <folding>
+            <marker date="1554727835329" expanded="true" signature="0:419" ph="/* Compiled shader for PC, Mac &amp; Linux Standalone ... */" />
+            <marker date="1554727835329" expanded="true" signature="463:2135" ph="{...}" />
+            <marker date="1554727835329" expanded="true" signature="2406:2643" ph="/* Compiled programs ... */" />
+            <marker date="1554727835329" expanded="true" signature="30691:30804" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="61824:61937" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="93890:94003" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="124767:124880" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="164708:164821" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="206034:206147" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="245716:245829" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="291246:291359" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="338161:338274" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="383778:383891" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="395312:395425" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="400513:400651" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="412939:413077" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="425069:425182" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="430281:430419" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="443080:443218" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="448269:448407" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="460526:460664" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="468714:468852" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="483651:483789" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="491850:491988" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="507160:507298" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="515311:515449" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="530080:530218" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="535464:535602" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="553147:553285" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="558542:558680" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="576811:576949" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="582158:582296" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="599714:599852" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="607477:607615" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="629261:629399" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="637035:637173" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="659405:659543" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="667131:667269" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="688970:689108" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="694181:694319" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="706592:706730" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="711814:711952" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="724864:725101" ph="/* Compiled programs ... */" />
+            <marker date="1554727835329" expanded="true" signature="751788:751901" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="776893:777006" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="802909:803022" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="827917:828030" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="855574:855687" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="884142:884255" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="911708:911821" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="939085:939198" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="967373:967486" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="994651:994764" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1021178:1021291" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1048616:1048729" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1075046:1075159" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1106613:1106726" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1139106:1139219" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1170595:1170708" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1207517:1207630" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1245807:1245920" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1282687:1282800" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1311143:1311256" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1340974:1341087" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1369300:1369413" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1399193:1399306" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1430461:1430574" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1460249:1460362" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1491334:1491447" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1523345:1523458" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1554329:1554442" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1587323:1587436" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1621685:1621798" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1654602:1654715" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1686182:1686295" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1718688:1718801" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1750165:1750278" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1783652:1783765" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1818507:1818620" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1851917:1852030" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1878814:1878927" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1906827:1907064" ph="/* Compiled programs ... */" />
+            <marker date="1554727835329" expanded="true" signature="1913925:1914038" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1920901:1921138" ph="/* Compiled programs ... */" />
+            <marker date="1554727835329" expanded="true" signature="1949186:1949299" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="1980319:1980432" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="2012385:2012498" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="2043262:2043375" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="2083203:2083316" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="2124529:2124642" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="2164211:2164324" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="2209741:2209854" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="2256656:2256769" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="2302273:2302386" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="2313807:2313920" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="2319008:2319146" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="2331434:2331572" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="2343564:2343677" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="2348776:2348914" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="2361575:2361713" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="2366764:2366902" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="2379021:2379159" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="2387209:2387347" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="2402146:2402284" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="2410345:2410483" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="2425655:2425793" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="2433806:2433944" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="2448575:2448713" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="2453959:2454097" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="2471642:2471780" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="2477037:2477175" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="2495306:2495444" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="2500653:2500791" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="2518209:2518347" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="2525972:2526110" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="2547756:2547894" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="2555530:2555668" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="2577900:2578038" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="2585626:2585764" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="2607465:2607603" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="2612676:2612814" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="2625087:2625225" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="2630309:2630447" ph="/* No shader variant for this keyword set. The closest match will be used instead. ... */" />
+            <marker date="1554727835329" expanded="true" signature="2643359:2643596" ph="/* Compiled programs ... */" />
+            <marker date="1554727835329" expanded="true" signature="2670283:2670396" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="2695388:2695501" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="2721404:2721517" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="2746412:2746525" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="2774069:2774182" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="2802637:2802750" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="2830203:2830316" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="2857580:2857693" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="2885868:2885981" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="2913146:2913259" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="2939673:2939786" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="2967111:2967224" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="2993541:2993654" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="3025108:3025221" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="3057601:3057714" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="3089090:3089203" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="3117546:3117659" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="3147377:3147490" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="3175703:3175816" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="3205596:3205709" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="3236864:3236977" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="3266652:3266765" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="3297737:3297850" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="3329748:3329861" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="3360732:3360845" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="3392312:3392425" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="3424818:3424931" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="3456295:3456408" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="3483192:3483305" ph="/* All GLSL source is contained within the vertex program ... */" />
+            <marker date="1554727835329" expanded="true" signature="3511205:3511442" ph="/* Compiled programs ... */" />
+            <marker date="1554727835329" expanded="true" signature="3518303:3518416" ph="/* All GLSL source is contained within the vertex program ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/CGIncludes/UnityAnisotropicBRDF.cginc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2170">
+          <caret line="138" column="40" lean-forward="true" selection-start-line="138" selection-start-column="40" selection-end-line="138" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/AnisotropicShaderGUI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="138" column="56" selection-start-line="138" selection-start-column="42" selection-end-line="138" selection-end-column="56" />
+          <folding>
+            <marker date="1554707358559" expanded="false" signature="109:135" ph="..." />
+            <marker date="1554707358559" expanded="true" signature="158:22538" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="212:22536" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="252:339" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="370:633" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="675:755" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="792:3602" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="5309:7614" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="7707:8513" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="8017:8296" ph="/* Make sure that needed setup (ie keywords/renderqueue) are set up if we're switching some existing ... */" />
+            <marker date="1554707358559" expanded="true" signature="8330:8459" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="8573:11351" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="10974:11125" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="11418:11875" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="11986:13293" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="12009:12150" ph="/* _Emission property is lost after assigning Standard shader to the material ... */" />
+            <marker date="1554707358559" expanded="true" signature="12201:12314" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="12474:12619" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="12737:12811" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="12874:13071" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="12905:13013" ph="/* NOTE: legacy shaders did not provide physically based transparency ... */" />
+            <marker date="1554707358559" expanded="true" signature="13324:13862" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="13646:13805" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="13908:14277" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="14094:14267" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="14325:15298" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="14427:15288" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="15337:16744" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="15442:15667" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="15729:15949" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="16048:16282" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="16777:16999" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="17094:19807" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="17135:19797" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="19887:20183" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="20270:22063" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="20293:20494" ph="/* Note: keywords must be based on Material value not on MaterialProperty due to multi-edit &amp; material animation ... */" />
+            <marker date="1554707358559" expanded="true" signature="21163:21546" ph="/* A material's GI flag internally keeps track of whether emission is enabled at all, it's enabled but has no eff ... */" />
+            <marker date="1554707358559" expanded="true" signature="21876:22053" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="22146:22313" ph="{...}" />
+            <marker date="1554707358559" expanded="true" signature="22385:22530" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UnityAnisotropicStandard.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="129" column="60" selection-start-line="129" selection-start-column="33" selection-end-line="129" selection-end-column="60" />
+          <folding>
+            <marker date="1554723161123" expanded="true" signature="132:8631" ph="{...}" />
+            <marker date="1554723161123" expanded="true" signature="147:1797" ph="{...}" />
+            <marker date="1554723161123" expanded="true" signature="603:742" ph="/* [ToggleOff] _SpecularHighlights(&quot;Specular Highlights&quot;, Float) = 1.0 ... */" />
+            <marker date="1554723161123" expanded="true" signature="1809:1869" ph="{...}" />
+            <marker date="1554723161123" expanded="true" signature="1888:5253" ph="{...}" />
+            <marker date="1554723161123" expanded="true" signature="1968:2107" ph="/* ------------------------------------------------------------------ ... */" />
+            <marker date="1554723161123" expanded="true" signature="2117:2985" ph="{...}" />
+            <marker date="1554723161123" expanded="true" signature="2240:2976" ph="{...}" />
+            <marker date="1554723161123" expanded="true" signature="2988:3106" ph="/* ------------------------------------------------------------------ ... */" />
+            <marker date="1554723161123" expanded="true" signature="3116:3944" ph="{...}" />
+            <marker date="1554723161123" expanded="true" signature="3312:3935" ph="{...}" />
+            <marker date="1554723161123" expanded="true" signature="3947:4044" ph="/* ------------------------------------------------------------------ ... */" />
+            <marker date="1554723161123" expanded="true" signature="4054:4607" ph="{...}" />
+            <marker date="1554723161123" expanded="true" signature="4159:4598" ph="{...}" />
+            <marker date="1554723161123" expanded="true" signature="4611:4804" ph="/* ------------------------------------------------------------------ ... */" />
+            <marker date="1554723161123" expanded="true" signature="4814:5250" ph="{...}" />
+            <marker date="1554723161123" expanded="true" signature="4889:5241" ph="{...}" />
+            <marker date="1554723161123" expanded="true" signature="5267:8569" ph="{...}" />
+            <marker date="1554723161123" expanded="true" signature="5346:5485" ph="/* ------------------------------------------------------------------ ... */" />
+            <marker date="1554723161123" expanded="true" signature="5495:6376" ph="{...}" />
+            <marker date="1554723161123" expanded="true" signature="5618:6367" ph="{...}" />
+            <marker date="1554723161123" expanded="true" signature="6379:6497" ph="/* ------------------------------------------------------------------ ... */" />
+            <marker date="1554723161123" expanded="true" signature="6507:7343" ph="{...}" />
+            <marker date="1554723161123" expanded="true" signature="6703:7334" ph="{...}" />
+            <marker date="1554723161123" expanded="true" signature="7346:7443" ph="/* ------------------------------------------------------------------ ... */" />
+            <marker date="1554723161123" expanded="true" signature="7453:7923" ph="{...}" />
+            <marker date="1554723161123" expanded="true" signature="7558:7914" ph="{...}" />
+            <marker date="1554723161123" expanded="true" signature="7927:8120" ph="/* ------------------------------------------------------------------ ... */" />
+            <marker date="1554723161123" expanded="true" signature="8130:8566" ph="{...}" />
+            <marker date="1554723161123" expanded="true" signature="8205:8557" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/CGIncludes/UnityAnisotropicCoreForward.cginc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/CGIncludes/UnityAnisotropicCoreForwardSimple.cginc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="98" column="14" lean-forward="true" selection-start-line="98" selection-start-column="14" selection-end-line="98" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
